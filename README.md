@@ -11,7 +11,7 @@
 
 ```sh
 til/
-├── README.md # インデックス（自動生成も可）
+├── README.md
 ├── go/
 │ ├── slice-tricks.md
 │ └── grpc-error-handling.md
